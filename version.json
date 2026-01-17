@@ -1,5 +1,5 @@
 {
-    "version": "5.8.0",
-    "logs": "• Added Community Hub overlay\n• Added Discord Server and Bot invite links\n• Improved UI navigation for social features",
+    "version": "5.8.1",
+    "logs": "• Restored Auto-Detector for Kicks and Disconnections\n• Optimized Hub overlay UI\n• Fixed logic for Session ID validation",
     "date": "2026-01-17"
 }
