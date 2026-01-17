@@ -1,5 +1,5 @@
 {
-    "version": "5.7.1",
-    "logs": "• Fixed crashes on Mobile\n• Improved Anti-AFK\n• New UI Theme",
-    "date": "2026-01-16"
+    "version": "5.8.0",
+    "logs": "• Added Social Hub for Discord Server and Bot access\n• Integrated JSON configuration saving system\n• Optimized UI for better button accessibility\n• Fixed minor alignment issues in the main monitor view",
+    "date": "2026-01-17"
 }
