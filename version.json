@@ -1,5 +1,5 @@
 {
     "version": "5.8.0",
-    "logs": "• Added Social Hub for Discord Server and Bot access\n• Integrated JSON configuration saving system\n• Optimized UI for better button accessibility\n• Fixed minor alignment issues in the main monitor view",
+    "logs": "• Added Community Hub overlay\n• Added Discord Server and Bot invite links\n• Improved UI navigation for social features",
     "date": "2026-01-17"
 }
