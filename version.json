@@ -1,5 +1,5 @@
 {
-    "version": "5.8.1",
-    "logs": "• Restored Auto-Detector for Kicks and Disconnections\n• Optimized Hub overlay UI\n• Fixed logic for Session ID validation",
-    "date": "2026-01-17"
+    "version": "5.8.2",
+    "logs": "• Replaced MIN button with RESET (Dual-click safety lock)\n• Moved Minimize button to top-left corner (-)\n• Improved UI layout for better readability",
+    "date": "2026-01-18"
 }
