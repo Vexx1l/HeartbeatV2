@@ -1,5 +1,5 @@
 {
-    "version": "5.8.2",
-    "logs": "• Replaced MIN button with RESET (Dual-click safety lock)\n• Moved Minimize button to top-left corner (-)\n• Improved UI layout for better readability",
-    "date": "2026-01-18"
+    "version": "6.3.2",
+    "logs": "• MODAL UI FIX: Overlays now block background button clicks for improved focus\n• JSON SYSTEM: Fully integrated admin-only JSON saving for global and local configurations\n• SHIELD V2: Integrated Anti-AFK movement, Auto-Rejoin on disconnect, and real-time activity feed\n• UI REHAUL: Fixed CanvasGroup cornering, standardized top-bar navigation, and added dynamic theme switching\n• SAFETY: Implemented dual-click Full Reset, clipboard bot-linking, and rate-limit handling for webhooks\n• MONITORING: Enhanced heartbeat timer with minimized-state live updates and custom interval settings",
+    "date": "2026-01-26"
 }
