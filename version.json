@@ -1,5 +1,5 @@
 {
     "version": "6.3.3",
-    "logs": "• USERNAME CENSOR: Added partial masking in UI (First 2 chars) and Discord spoilers (||name||)",
+    "logs": "• PRIVACY: Added username censorship in GUI (e.g. Ge****) and Discord Webhook spoilers (||Name||)",
     "date": "2026-02-03"
 }
